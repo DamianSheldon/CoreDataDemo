@@ -1,0 +1,10 @@
+PODS:
+  - XLForm (3.1.1)
+
+DEPENDENCIES:
+  - XLForm (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  XLForm: c9ee7e0f859341279bfd894f9589a9d25c23e4df
+
+COCOAPODS: 0.39.0
